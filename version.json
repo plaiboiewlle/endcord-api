@@ -1,0 +1,137 @@
+{
+  "version": "1.0.0540",
+  "hash": "942503e",
+  "updatedAt": 1784665150540,
+  "date": "2026-07-21T20:19:10.540Z",
+  "downloadUrl": "https://endcord.com/dist/renderer.js",
+  "assets": [
+    {
+      "name": "endcordDesktopMain.js",
+      "url": "https://endcord.com/dist/endcordDesktopMain.js"
+    },
+    {
+      "name": "endcordDesktopMain.js.LEGAL.txt",
+      "url": "https://endcord.com/dist/endcordDesktopMain.js.LEGAL.txt"
+    },
+    {
+      "name": "endcordDesktopMain.js.map",
+      "url": "https://endcord.com/dist/endcordDesktopMain.js.map"
+    },
+    {
+      "name": "endcordDesktopPreload.js",
+      "url": "https://endcord.com/dist/endcordDesktopPreload.js"
+    },
+    {
+      "name": "endcordDesktopPreload.js.map",
+      "url": "https://endcord.com/dist/endcordDesktopPreload.js.map"
+    },
+    {
+      "name": "endcordDesktopRenderer.css",
+      "url": "https://endcord.com/dist/endcordDesktopRenderer.css"
+    },
+    {
+      "name": "endcordDesktopRenderer.css.map",
+      "url": "https://endcord.com/dist/endcordDesktopRenderer.css.map"
+    },
+    {
+      "name": "endcordDesktopRenderer.js",
+      "url": "https://endcord.com/dist/endcordDesktopRenderer.js"
+    },
+    {
+      "name": "endcordDesktopRenderer.js.LEGAL.txt",
+      "url": "https://endcord.com/dist/endcordDesktopRenderer.js.LEGAL.txt"
+    },
+    {
+      "name": "endcordDesktopRenderer.js.map",
+      "url": "https://endcord.com/dist/endcordDesktopRenderer.js.map"
+    },
+    {
+      "name": "patcher.js",
+      "url": "https://endcord.com/dist/patcher.js"
+    },
+    {
+      "name": "patcher.js.LEGAL.txt",
+      "url": "https://endcord.com/dist/patcher.js.LEGAL.txt"
+    },
+    {
+      "name": "patcher.js.map",
+      "url": "https://endcord.com/dist/patcher.js.map"
+    },
+    {
+      "name": "plugin-readmes.json",
+      "url": "https://endcord.com/dist/plugin-readmes.json"
+    },
+    {
+      "name": "plugins.json",
+      "url": "https://endcord.com/dist/plugins.json"
+    },
+    {
+      "name": "preload.js",
+      "url": "https://endcord.com/dist/preload.js"
+    },
+    {
+      "name": "preload.js.map",
+      "url": "https://endcord.com/dist/preload.js.map"
+    },
+    {
+      "name": "renderer.css",
+      "url": "https://endcord.com/dist/renderer.css"
+    },
+    {
+      "name": "renderer.css.map",
+      "url": "https://endcord.com/dist/renderer.css.map"
+    },
+    {
+      "name": "renderer.js",
+      "url": "https://endcord.com/dist/renderer.js"
+    },
+    {
+      "name": "renderer.js.LEGAL.txt",
+      "url": "https://endcord.com/dist/renderer.js.LEGAL.txt"
+    },
+    {
+      "name": "renderer.js.map",
+      "url": "https://endcord.com/dist/renderer.js.map"
+    },
+    {
+      "name": "vencordDesktopMain.js",
+      "url": "https://endcord.com/dist/vencordDesktopMain.js"
+    },
+    {
+      "name": "vencordDesktopMain.js.LEGAL.txt",
+      "url": "https://endcord.com/dist/vencordDesktopMain.js.LEGAL.txt"
+    },
+    {
+      "name": "vencordDesktopMain.js.map",
+      "url": "https://endcord.com/dist/vencordDesktopMain.js.map"
+    },
+    {
+      "name": "vencordDesktopPreload.js",
+      "url": "https://endcord.com/dist/vencordDesktopPreload.js"
+    },
+    {
+      "name": "vencordDesktopPreload.js.map",
+      "url": "https://endcord.com/dist/vencordDesktopPreload.js.map"
+    },
+    {
+      "name": "vencordDesktopRenderer.css",
+      "url": "https://endcord.com/dist/vencordDesktopRenderer.css"
+    },
+    {
+      "name": "vencordDesktopRenderer.css.map",
+      "url": "https://endcord.com/dist/vencordDesktopRenderer.css.map"
+    },
+    {
+      "name": "vencordDesktopRenderer.js",
+      "url": "https://endcord.com/dist/vencordDesktopRenderer.js"
+    },
+    {
+      "name": "vencordDesktopRenderer.js.LEGAL.txt",
+      "url": "https://endcord.com/dist/vencordDesktopRenderer.js.LEGAL.txt"
+    },
+    {
+      "name": "vencordDesktopRenderer.js.map",
+      "url": "https://endcord.com/dist/vencordDesktopRenderer.js.map"
+    }
+  ]
+}
