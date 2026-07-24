@@ -25,18 +25,6 @@
       "tooltip": "Endcord Owner & Developer",
       "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%23a595d3'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E",
       "description": "Endcord Owner & Developer"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
-      "tooltip": "Discord Staff",
-      "icon": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
-      "description": "Discord Staff"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
-      "tooltip": "Ruby (36 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
-      "description": "Ruby (36 months)"
     }
   ],
   "904384828143706164": [
