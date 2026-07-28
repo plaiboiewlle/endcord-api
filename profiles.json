@@ -243,16 +243,16 @@
       "description": "Early Supporter"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
-      "tooltip": "Emerald (24 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
-      "description": "Emerald (24 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
+      "tooltip": "Diamond (12 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
+      "description": "Diamond (12 months)"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/51040c70d4f20a921ad6674ff86fc95c.png",
-      "tooltip": "Server Boost - 1 Month",
-      "icon": "https://cdn.discordapp.com/badge-icons/51040c70d4f20a921ad6674ff86fc95c.png",
-      "description": "Server Boost - 1 Month"
+      "badge": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
+      "tooltip": "Server Boost - 2 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
+      "description": "Server Boost - 2 Months"
     }
   ]
 }
