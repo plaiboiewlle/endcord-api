@@ -919,12 +919,6 @@
       "tooltip": "Partnered Server Owner",
       "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
       "description": "Partnered Server Owner"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
-      "tooltip": "Gold (3 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
-      "description": "Gold (3 months)"
     }
   ]
 }
