@@ -1920,5 +1920,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
       "description": "Emerald (24 months)"
     }
+  ],
+  "1452846186523525203": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
+      "tooltip": "Gold (3 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
+      "description": "Gold (3 months)"
+    }
   ]
 }
