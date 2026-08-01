@@ -92,15 +92,51 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "tooltip": "Orbs ÃÂ¢ÃÂÃÂ Apprentice",
+      "tooltip": "Orbs — Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "description": "Orbs ÃÂ¢ÃÂÃÂ Apprentice"
+      "description": "Orbs — Apprentice"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
       "tooltip": "Last Meadow Online",
       "icon": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
       "description": "Last Meadow Online"
+    },
+    {
+      "badge": "https://i.imgur.com/tI4GCxR.png",
+      "tooltip": "Gifting — Patron",
+      "icon": "https://i.imgur.com/tI4GCxR.png",
+      "description": "Gifting — Patron"
+    },
+    {
+      "badge": "https://i.imgur.com/Jynm4dV.png",
+      "tooltip": "Gifting — Champion",
+      "icon": "https://i.imgur.com/Jynm4dV.png",
+      "description": "Gifting — Champion"
+    },
+    {
+      "badge": "https://i.imgur.com/3GRyXIR.png",
+      "tooltip": "Gifting — Luminary",
+      "icon": "https://i.imgur.com/3GRyXIR.png",
+      "description": "Gifting — Luminary"
+    },
+    {
+      "badge": "https://i.imgur.com/chM1tvZ.png",
+      "tooltip": "Gifting — Icon",
+      "icon": "https://i.imgur.com/chM1tvZ.png",
+      "description": "Gifting — Icon"
+    },
+    {
+      "badge": "https://i.imgur.com/7bJJJWl.png",
+      "tooltip": "Gifting — Hero",
+      "icon": "https://i.imgur.com/7bJJJWl.png",
+      "description": "Gifting — Hero"
+    },
+    {
+      "badge": "https://i.imgur.com/gQg96nV.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://i.imgur.com/gQg96nV.png",
+      "description": "Gifting — Legendary"
     }
   ],
   "1495050160147927061": [
