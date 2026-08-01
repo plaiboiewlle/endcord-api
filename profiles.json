@@ -71,6 +71,34 @@
       "tooltip": "Ruby (36 months)",
       "icon": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
       "description": "Ruby (36 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "tooltip": "Server Boost - 24 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "description": "Server Boost - 24 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
+      "tooltip": "Completed a quest",
+      "icon": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
+      "description": "Completed a quest"
+    },
+    {
+      "badge": "https://i.imgur.com/gQg96nV.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://i.imgur.com/gQg96nV.png",
+      "description": "Gifting — Legendary"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
+      "tooltip": "Orbs — Apprentice",
+      "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
+      "description": "Orbs — Apprentice"
+    },
+    {
+      "tooltip": "Old username: xd#xdxd",
+      "description": "Old username: xd#xdxd"
     }
   ],
   "1495050160147927061": [
