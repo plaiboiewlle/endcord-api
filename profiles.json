@@ -1,10 +1,10 @@
 {
   "892408159526858753": [
     {
-      "badge": "https://iili.io/C3jZGrg.th.png",
-      "tooltip": "Endcord Owner",
-      "icon": "https://iili.io/C3jZGrg.th.png",
-      "description": "Endcord Owner"
+      "badge": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%235ec9ff'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E",
+      "tooltip": "Endcord Owner & Developer",
+      "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%235ec9ff'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E",
+      "description": "Endcord Owner & Developer"
     },
     {
       "tooltip": "Discord Staff",
@@ -21,10 +21,10 @@
   ],
   "1505905479413530795": [
     {
-      "badge": "https://iili.io/C3jZGrg.th.png",
-      "tooltip": "Endcord Owner",
-      "icon": "https://iili.io/C3jZGrg.th.png",
-      "description": "Endcord Owner"
+      "badge": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%23a595d3'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E",
+      "tooltip": "Endcord Owner & Developer",
+      "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%23a595d3'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E",
+      "description": "Endcord Owner & Developer"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
@@ -41,10 +41,10 @@
   ],
   "904384828143706164": [
     {
-      "badge": "https://iili.io/C3jZGrg.th.png",
-      "tooltip": "Endcord Owner",
-      "icon": "https://iili.io/C3jZGrg.th.png",
-      "description": "Endcord Owner"
+      "badge": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%237aa3ff'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E",
+      "tooltip": "Endcord Owner & Developer",
+      "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%237aa3ff'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E",
+      "description": "Endcord Owner & Developer"
     }
   ],
   "1527382025429061823": [
@@ -92,9 +92,9 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "tooltip": "Orbs — Apprentice",
+      "tooltip": "Orbs â Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "description": "Orbs — Apprentice"
+      "description": "Orbs â Apprentice"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
@@ -104,33 +104,33 @@
     },
     {
       "badge": "https://i.imgur.com/tI4GCxR.png",
-      "tooltip": "Gifting — Patron",
+      "tooltip": "Gifting â Patron",
       "icon": "https://i.imgur.com/tI4GCxR.png",
-      "description": "Gifting — Patron"
+      "description": "Gifting â Patron"
     },
     {
       "badge": "https://i.imgur.com/Jynm4dV.png",
-      "tooltip": "Gifting — Champion",
+      "tooltip": "Gifting â Champion",
       "icon": "https://i.imgur.com/Jynm4dV.png",
-      "description": "Gifting — Champion"
+      "description": "Gifting â Champion"
     },
     {
       "badge": "https://i.imgur.com/3GRyXIR.png",
-      "tooltip": "Gifting — Luminary",
+      "tooltip": "Gifting â Luminary",
       "icon": "https://i.imgur.com/3GRyXIR.png",
-      "description": "Gifting — Luminary"
+      "description": "Gifting â Luminary"
     },
     {
       "badge": "https://i.imgur.com/chM1tvZ.png",
-      "tooltip": "Gifting — Icon",
+      "tooltip": "Gifting â Icon",
       "icon": "https://i.imgur.com/chM1tvZ.png",
-      "description": "Gifting — Icon"
+      "description": "Gifting â Icon"
     },
     {
       "badge": "https://i.imgur.com/7bJJJWl.png",
-      "tooltip": "Gifting — Hero",
+      "tooltip": "Gifting â Hero",
       "icon": "https://i.imgur.com/7bJJJWl.png",
-      "description": "Gifting — Hero"
+      "description": "Gifting â Hero"
     }
   ],
   "1495050160147927061": [
