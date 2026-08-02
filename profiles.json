@@ -38,15 +38,23 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "tooltip": "Orbs — Apprentice",
+      "tooltip": "Orbs â Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "description": "Orbs — Apprentice"
+      "description": "Orbs â Apprentice"
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting — Legendary",
+      "tooltip": "Gifting â Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting — Legendary"
+      "description": "Gifting â Legendary"
+    }
+  ],
+  "1531141611273191582": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
+      "tooltip": "Silver (2 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
+      "description": "Silver (2 months)"
     }
   ]
 }
