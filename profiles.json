@@ -40,9 +40,9 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "tooltip": "Orbs ÃÂ¢ÃÂÃÂ Apprentice",
+      "tooltip": "Orbs ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "description": "Orbs ÃÂ¢ÃÂÃÂ Apprentice"
+      "description": "Orbs ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ Apprentice"
     }
   ],
   "892408159526858753": [
@@ -102,9 +102,9 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "tooltip": "Orbs â Apprentice",
+      "tooltip": "Orbs Ã¢ÂÂ Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "description": "Orbs â Apprentice"
+      "description": "Orbs Ã¢ÂÂ Apprentice"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
@@ -134,9 +134,17 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting — Legendary",
+      "tooltip": "Gifting â Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting — Legendary"
+      "description": "Gifting â Legendary"
+    }
+  ],
+  "1517456955592015973": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "tooltip": "Early Supporter",
+      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "description": "Early Supporter"
     }
   ]
 }
