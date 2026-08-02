@@ -1,6 +1,12 @@
 {
   "743990821048680580": [
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "tooltip": "Early Supporter",
+      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "description": "Early Supporter"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
       "tooltip": "Server Boost - 24 Months",
       "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
@@ -8,9 +14,9 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
-      "tooltip": "Gifting ÃÂ¢ÃÂÃÂ Luminary",
+      "tooltip": "Gifting — Luminary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
-      "description": "Gifting ÃÂ¢ÃÂÃÂ Luminary"
+      "description": "Gifting — Luminary"
     }
   ],
   "892408159526858753": [
