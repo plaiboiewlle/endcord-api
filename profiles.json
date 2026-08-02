@@ -102,5 +102,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
       "description": "Old username: 62#0000"
     }
+  ],
+  "1531418634721955972": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "tooltip": "Partnered Server Owner",
+      "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "description": "Partnered Server Owner"
+    }
   ]
 }
