@@ -56,5 +56,25 @@
       "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
       "description": "Early Verified Bot Developer"
     }
+  ],
+  "1468974014008660089": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
+      "tooltip": "HypeSquad Bravery",
+      "icon": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
+      "description": "HypeSquad Bravery"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "tooltip": "Platinum (6 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "description": "Platinum (6 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
+      "tooltip": "Server Boost - 2 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
+      "description": "Server Boost - 2 Months"
+    }
   ]
 }
