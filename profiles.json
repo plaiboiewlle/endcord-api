@@ -636,9 +636,9 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting â Legendary",
+      "tooltip": "Gifting — Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting â Legendary"
+      "description": "Gifting — Legendary"
     }
   ]
 }
