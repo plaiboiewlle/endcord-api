@@ -1137,6 +1137,12 @@
       "description": "Opal (72 months)"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
+      "tooltip": "HypeSquad Events",
+      "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
+      "description": "HypeSquad Events"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
       "tooltip": "Early Supporter",
       "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
@@ -1147,6 +1153,24 @@
       "tooltip": "Server Boost - 18 Months",
       "icon": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
       "description": "Server Boost - 18 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "tooltip": "Old username",
+      "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "description": "Old username"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
+      "tooltip": "Completed a quest",
+      "icon": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
+      "description": "Completed a quest"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
+      "tooltip": "Orbs — Apprentice",
+      "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
+      "description": "Orbs — Apprentice"
     }
   ]
 }
