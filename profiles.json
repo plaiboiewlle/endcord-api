@@ -1165,6 +1165,12 @@
       "tooltip": "Orbs — Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
       "description": "Orbs — Apprentice"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "description": "Gifting — Legendary"
     }
   ]
 }
