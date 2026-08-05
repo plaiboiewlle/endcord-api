@@ -68,5 +68,25 @@
       "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
       "description": "Opal (72 months)"
     }
+  ],
+  "1449050561524535416": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "tooltip": "Early Verified Bot Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "description": "Early Verified Bot Developer"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
+      "tooltip": "Server Boost - 18 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
+      "description": "Server Boost - 18 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "tooltip": "Ruby (36 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "description": "Ruby (36 months)"
+    }
   ]
 }
