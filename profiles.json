@@ -1131,22 +1131,16 @@
   ],
   "250509775081701377": [
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
-      "tooltip": "Gold (3 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
-      "description": "Gold (3 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "tooltip": "Platinum (6 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "description": "Platinum (6 months)"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
-      "tooltip": "Early Supporter",
-      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
-      "description": "Early Supporter"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/996b3e870e8a22ce519b3a50e6bdd52f.png",
-      "tooltip": "Server Boost - 9 Months",
-      "icon": "https://cdn.discordapp.com/badge-icons/996b3e870e8a22ce519b3a50e6bdd52f.png",
-      "description": "Server Boost - 9 Months"
+      "badge": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
+      "tooltip": "Server Boost - 18 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
+      "description": "Server Boost - 18 Months"
     }
   ],
   "1217875047914541184": [
