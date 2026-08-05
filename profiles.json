@@ -20,9 +20,9 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting Ã¢ÂÂ Legendary",
+      "tooltip": "Gifting ÃÂ¢ÃÂÃÂ Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting Ã¢ÂÂ Legendary"
+      "description": "Gifting ÃÂ¢ÃÂÃÂ Legendary"
     }
   ],
   "1522159575439118415": [
@@ -135,6 +135,32 @@
       "tooltip": "Server Boost - 24 Months",
       "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
       "description": "Server Boost - 24 Months"
+    }
+  ],
+  "1412171393432555524": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "tooltip": "Discord Staff",
+      "icon": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "description": "Discord Staff"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "tooltip": "Server Boost - 24 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "description": "Server Boost - 24 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "tooltip": "Opal (72 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "description": "Opal (72 months)"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "description": "Gifting — Legendary"
     }
   ]
 }
