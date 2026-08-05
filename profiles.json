@@ -66,9 +66,9 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting Ã¢ÂÂ Legendary",
+      "tooltip": "Gifting ÃÂ¢ÃÂÃÂ Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting Ã¢ÂÂ Legendary"
+      "description": "Gifting ÃÂ¢ÃÂÃÂ Legendary"
     }
   ],
   "1416932772315926690": [
@@ -136,9 +136,9 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting Ã¢ÂÂ Legendary",
+      "tooltip": "Gifting ÃÂ¢ÃÂÃÂ Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting Ã¢ÂÂ Legendary"
+      "description": "Gifting ÃÂ¢ÃÂÃÂ Legendary"
     }
   ],
   "1188575982324547584": [
@@ -168,15 +168,15 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "tooltip": "Orbs â Apprentice",
+      "tooltip": "Orbs Ã¢ÂÂ Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "description": "Orbs â Apprentice"
+      "description": "Orbs Ã¢ÂÂ Apprentice"
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
-      "tooltip": "Gifting â Hero",
+      "tooltip": "Gifting Ã¢ÂÂ Hero",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
-      "description": "Gifting â Hero"
+      "description": "Gifting Ã¢ÂÂ Hero"
     }
   ],
   "1452813510965727318": [
@@ -200,9 +200,9 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting — Legendary",
+      "tooltip": "Gifting â Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting — Legendary"
+      "description": "Gifting â Legendary"
     }
   ]
 }
