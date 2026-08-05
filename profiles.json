@@ -542,5 +542,31 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
       "description": "Gifting — Legendary"
     }
+  ],
+  "1188575982324547584": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "tooltip": "Emerald (24 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "description": "Emerald (24 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "tooltip": "Early Supporter",
+      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "description": "Early Supporter"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/72bed924410c304dbe3d00a6e593ff59.png",
+      "tooltip": "Server Boost - 3 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/72bed924410c304dbe3d00a6e593ff59.png",
+      "description": "Server Boost - 3 Months"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
+      "tooltip": "Gifting — Hero",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
+      "description": "Gifting — Hero"
+    }
   ]
 }
