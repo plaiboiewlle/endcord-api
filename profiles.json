@@ -346,5 +346,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
       "description": "Ruby (36 months)"
     }
+  ],
+  "1505905479413530795": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/4f33c4a9c64ce221936bd256c356f91f.png",
+      "tooltip": "Bronze (1 month)",
+      "icon": "https://cdn.discordapp.com/badge-icons/4f33c4a9c64ce221936bd256c356f91f.png",
+      "description": "Bronze (1 month)"
+    }
   ]
 }
