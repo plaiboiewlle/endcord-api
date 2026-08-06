@@ -102,23 +102,23 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "tooltip": "Orbs â Apprentice",
+      "tooltip": "Orbs Ã¢ÂÂ Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "description": "Orbs â Apprentice"
+      "description": "Orbs Ã¢ÂÂ Apprentice"
     }
   ],
   "249009477712347136": [
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
-      "tooltip": "Moderator Programs Alumni",
-      "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
-      "description": "Moderator Programs Alumni"
+      "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "tooltip": "Early Verified Bot Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "description": "Early Verified Bot Developer"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
-      "tooltip": "Nitro (0 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
-      "description": "Nitro (0 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
+      "tooltip": "Silver (2 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
+      "description": "Silver (2 months)"
     }
   ],
   "1523189106610405426": [
@@ -182,9 +182,9 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
-      "tooltip": "Gifting — Luminary",
+      "tooltip": "Gifting â Luminary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
-      "description": "Gifting — Luminary"
+      "description": "Gifting â Luminary"
     }
   ]
 }
