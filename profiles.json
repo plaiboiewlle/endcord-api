@@ -566,5 +566,37 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
       "description": "Gifting — Icon"
     }
+  ],
+  "1474197787372552403": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "tooltip": "Partnered Server Owner",
+      "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "description": "Partnered Server Owner"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
+      "tooltip": "HypeSquad Events",
+      "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
+      "description": "HypeSquad Events"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
+      "tooltip": "Bug Hunter Level 1",
+      "icon": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
+      "description": "Bug Hunter Level 1"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "tooltip": "Early Verified Bot Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "description": "Early Verified Bot Developer"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "tooltip": "Moderator Programs Alumni",
+      "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "description": "Moderator Programs Alumni"
+    }
   ]
 }
