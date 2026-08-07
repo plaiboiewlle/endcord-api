@@ -64,9 +64,9 @@
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
-      "tooltip": "Gifting — Luminary",
+      "tooltip": "Gifting â Luminary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
-      "description": "Gifting — Luminary"
+      "description": "Gifting â Luminary"
     }
   ],
   "1454419648534810625": [
@@ -75,6 +75,32 @@
       "tooltip": "Silver (2 months)",
       "icon": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
       "description": "Silver (2 months)"
+    }
+  ],
+  "1150410342246133862": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
+      "tooltip": "HypeSquad Brilliance",
+      "icon": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
+      "description": "HypeSquad Brilliance"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "tooltip": "Early Supporter",
+      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "description": "Early Supporter"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "tooltip": "Server Boost - 24 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "description": "Server Boost - 24 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "tooltip": "Opal (72 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "description": "Opal (72 months)"
     }
   ]
 }
