@@ -602,5 +602,13 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
       "description": "Gifting â Legendary"
     }
+  ],
+  "1338263962516455514": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
+      "tooltip": "Nitro (0 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
+      "description": "Nitro (0 months)"
+    }
   ]
 }
