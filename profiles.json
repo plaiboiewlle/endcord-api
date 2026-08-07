@@ -54,5 +54,25 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
       "description": "Gifting — Legendary"
     }
+  ],
+  "1505735912909443284": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "tooltip": "Opal (72 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "description": "Opal (72 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "tooltip": "Server Boost - 24 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "description": "Server Boost - 24 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "tooltip": "Old username: xx#0001",
+      "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "description": "Old username: xx#0001"
+    }
   ]
 }
