@@ -554,5 +554,13 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
       "description": "Gifting — Legendary"
     }
+  ],
+  "1526071660573360238": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "tooltip": "Ruby (36 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "description": "Ruby (36 months)"
+    }
   ]
 }
