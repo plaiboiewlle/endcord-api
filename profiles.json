@@ -68,5 +68,13 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
       "description": "Gifting — Luminary"
     }
+  ],
+  "1454419648534810625": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
+      "tooltip": "Silver (2 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
+      "description": "Silver (2 months)"
+    }
   ]
 }
