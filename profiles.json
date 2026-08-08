@@ -11,18 +11,6 @@
       "tooltip": "Early Supporter",
       "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
       "description": "Early Supporter"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
-      "tooltip": "Server Boost - 24 Months",
-      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
-      "description": "Server Boost - 24 Months"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
-      "tooltip": "Opal (72 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
-      "description": "Opal (72 months)"
     }
   ],
   "1053314533013336104": [
@@ -82,15 +70,15 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "tooltip": "Orbs â Apprentice",
+      "tooltip": "Orbs Ã¢ÂÂ Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
-      "description": "Orbs â Apprentice"
+      "description": "Orbs Ã¢ÂÂ Apprentice"
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting â Legendary",
+      "tooltip": "Gifting Ã¢ÂÂ Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting â Legendary"
+      "description": "Gifting Ã¢ÂÂ Legendary"
     }
   ],
   "1492842207676465373": [
