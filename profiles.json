@@ -106,5 +106,55 @@
       "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
       "description": "Old username: Toastyzz#9261"
     }
+  ],
+  "1532457182111731845": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "tooltip": "Discord Staff",
+      "icon": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "description": "Discord Staff"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "tooltip": "Opal (72 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "description": "Opal (72 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "tooltip": "Early Verified Bot Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "description": "Early Verified Bot Developer"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "tooltip": "Moderator Programs Alumni",
+      "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "description": "Moderator Programs Alumni"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "tooltip": "Early Supporter",
+      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "description": "Early Supporter"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "tooltip": "Server Boost - 24 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "description": "Server Boost - 24 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
+      "tooltip": "Active Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
+      "description": "Active Developer"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "description": "Gifting — Legendary"
+    }
   ]
 }
