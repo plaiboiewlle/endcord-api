@@ -2499,6 +2499,12 @@
       "description": "Partnered Server Owner"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "tooltip": "Opal (72 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "description": "Opal (72 months)"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
       "tooltip": "HypeSquad Events",
       "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
@@ -2509,6 +2515,12 @@
       "tooltip": "Bug Hunter Level 2",
       "icon": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
       "description": "Bug Hunter Level 2"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
+      "tooltip": "Bug Hunter Level 1",
+      "icon": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
+      "description": "Bug Hunter Level 1"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
@@ -2557,6 +2569,18 @@
       "tooltip": "HypeSquad Balance",
       "icon": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
       "description": "HypeSquad Balance"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "tooltip": "Old username: L",
+      "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "description": "Old username: L"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "description": "Gifting — Legendary"
     }
   ],
   "1214023867148804168": [
