@@ -6194,5 +6194,19 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
       "description": "Gifting — Legendary"
     }
+  ],
+  "708804159524044853": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "tooltip": "Partnered Server Owner",
+      "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "description": "Partnered Server Owner"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
+      "tooltip": "Active Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
+      "description": "Active Developer"
+    }
   ]
 }
