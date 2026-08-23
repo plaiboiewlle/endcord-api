@@ -2833,10 +2833,16 @@
   ],
   "1356706759653330964": [
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
-      "tooltip": "Gold (3 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
-      "description": "Gold (3 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
+      "tooltip": "Diamond (12 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
+      "description": "Diamond (12 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "tooltip": "Server Boost - 24 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
+      "description": "Server Boost - 24 Months"
     }
   ],
   "1327435308513362001": [
