@@ -3671,10 +3671,22 @@
       "description": "Ruby (36 months)"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
+      "tooltip": "HypeSquad Bravery",
+      "icon": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
+      "description": "HypeSquad Bravery"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
       "tooltip": "Orbs — Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
       "description": "Orbs — Apprentice"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "description": "Gifting — Legendary"
     }
   ]
 }
