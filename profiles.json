@@ -4896,5 +4896,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
       "description": "Last Meadow Online"
     }
+  ],
+  "403939169388199936": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "tooltip": "Discord Staff",
+      "icon": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "description": "Discord Staff"
+    }
   ]
 }
