@@ -7032,5 +7032,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/cb3ae83c15e970e8f3d410bc62cb8b99.png",
       "description": "Server Boost - 15 Months"
     }
+  ],
+  "1527169909522698383": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
+      "tooltip": "HypeSquad Balance",
+      "icon": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
+      "description": "HypeSquad Balance"
+    }
   ]
 }
