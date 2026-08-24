@@ -10060,5 +10060,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
       "description": "Server Boost - 24 Months"
     }
+  ],
+  "1457616785963745286": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "tooltip": "Discord Staff",
+      "icon": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "description": "Discord Staff"
+    }
   ]
 }
