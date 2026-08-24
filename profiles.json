@@ -7265,6 +7265,12 @@
       "description": "Partnered Server Owner"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "tooltip": "Emerald (24 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "description": "Emerald (24 months)"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
       "tooltip": "HypeSquad Events",
       "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
@@ -7287,6 +7293,12 @@
       "tooltip": "Moderator Programs Alumni",
       "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
       "description": "Moderator Programs Alumni"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/72bed924410c304dbe3d00a6e593ff59.png",
+      "tooltip": "Server Boost - 3 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/72bed924410c304dbe3d00a6e593ff59.png",
+      "description": "Server Boost - 3 Months"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
