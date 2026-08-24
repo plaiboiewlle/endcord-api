@@ -5341,6 +5341,12 @@
       "description": "HypeSquad Bravery"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "tooltip": "Old username: pvp",
+      "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "description": "Old username: pvp"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
       "tooltip": "Orbs — Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
