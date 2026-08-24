@@ -11802,5 +11802,25 @@
       "icon": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png",
       "description": "Server Boost - 12 Months"
     }
+  ],
+  "1407475515660435550": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "tooltip": "Discord Staff",
+      "icon": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png",
+      "description": "Discord Staff"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "tooltip": "Platinum (6 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "description": "Platinum (6 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
+      "tooltip": "Server Boost - 2 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
+      "description": "Server Boost - 2 Months"
+    }
   ]
 }
