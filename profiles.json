@@ -22462,5 +22462,13 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
       "description": "Gifting — Legendary"
     }
+  ],
+  "1527382025429061823": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "tooltip": "Moderator Programs Alumni",
+      "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "description": "Moderator Programs Alumni"
+    }
   ]
 }
