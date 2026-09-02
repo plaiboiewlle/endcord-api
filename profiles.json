@@ -22481,6 +22481,12 @@
       "tooltip": "Gifting — Champion",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_champion.png",
       "description": "Gifting — Champion"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
+      "tooltip": "Gifting — Icon",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
+      "description": "Gifting — Icon"
     }
   ]
 }
