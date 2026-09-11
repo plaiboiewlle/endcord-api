@@ -1,1 +1,8 @@
-{}
+{
+  "test_user": [
+    {
+      "badge": "https://cdn.discordapp.com/emojis/123.png",
+      "tooltip": "Test"
+    }
+  ]
+}
