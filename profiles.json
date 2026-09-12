@@ -2649,6 +2649,12 @@
       "description": "Partnered Server Owner"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "tooltip": "Opal (72 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
+      "description": "Opal (72 months)"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
       "tooltip": "HypeSquad Events",
       "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
@@ -2685,6 +2691,12 @@
       "description": "Early Supporter"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
+      "tooltip": "Server Boost - 18 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
+      "description": "Server Boost - 18 Months"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
       "tooltip": "Active Developer",
       "icon": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
@@ -2707,6 +2719,12 @@
       "tooltip": "HypeSquad Balance",
       "icon": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
       "description": "HypeSquad Balance"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "tooltip": "Old username",
+      "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "description": "Old username"
     }
   ]
 }
