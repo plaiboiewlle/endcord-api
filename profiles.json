@@ -5244,5 +5244,37 @@
       "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
       "description": "Early Supporter"
     }
+  ],
+  "1250469653222789171": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "tooltip": "Emerald (24 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "description": "Emerald (24 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
+      "tooltip": "Bug Hunter Level 2",
+      "icon": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
+      "description": "Bug Hunter Level 2"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
+      "tooltip": "Bug Hunter Level 1",
+      "icon": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
+      "description": "Bug Hunter Level 1"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "tooltip": "Early Supporter",
+      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "description": "Early Supporter"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
+      "tooltip": "HypeSquad Balance",
+      "icon": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
+      "description": "HypeSquad Balance"
+    }
   ]
 }
