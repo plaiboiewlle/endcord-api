@@ -7059,10 +7059,10 @@
   ],
   "1105502018656796822": [
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
-      "tooltip": "Opal (72 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
-      "description": "Opal (72 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "tooltip": "Ruby (36 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "description": "Ruby (36 months)"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
@@ -7077,12 +7077,6 @@
       "description": "Server Boost - 24 Months"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
-      "tooltip": "Active Developer",
-      "icon": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
-      "description": "Active Developer"
-    },
-    {
       "badge": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
       "tooltip": "HypeSquad Brilliance",
       "icon": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
@@ -7095,10 +7089,10 @@
       "description": "Old username: Demizey#0001"
     },
     {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting — Legendary",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting — Legendary"
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
+      "tooltip": "Gifting — Hero",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
+      "description": "Gifting — Hero"
     }
   ]
 }
