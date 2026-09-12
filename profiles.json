@@ -3263,6 +3263,12 @@
   ],
   "1379441417751101531": [
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
+      "tooltip": "Nitro (0 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
+      "description": "Nitro (0 months)"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
       "tooltip": "Bug Hunter Level 2",
       "icon": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
@@ -3279,6 +3285,18 @@
       "tooltip": "Old username",
       "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
       "description": "Old username"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
+      "tooltip": "Completed a quest",
+      "icon": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
+      "description": "Completed a quest"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
+      "tooltip": "Orbs — Apprentice",
+      "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
+      "description": "Orbs — Apprentice"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
