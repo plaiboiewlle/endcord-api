@@ -13199,6 +13199,12 @@
       "tooltip": "Gifting — Icon",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
       "description": "Gifting — Icon"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
+      "tooltip": "Gifting — Hero",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
+      "description": "Gifting — Hero"
     }
   ]
 }
