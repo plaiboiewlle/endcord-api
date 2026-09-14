@@ -29423,6 +29423,18 @@
       "tooltip": "Silver (2 months)",
       "icon": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
       "description": "Silver (2 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
+      "tooltip": "Server Boost - 2 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
+      "description": "Server Boost - 2 Months"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
+      "tooltip": "Gifting — Icon",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
+      "description": "Gifting — Icon"
     }
   ],
   "1507385282515964114": [
