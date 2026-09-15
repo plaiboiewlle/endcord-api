@@ -39263,18 +39263,6 @@
       "description": "HypeSquad Events"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
-      "tooltip": "Bug Hunter Level 2",
-      "icon": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
-      "description": "Bug Hunter Level 2"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
-      "tooltip": "Bug Hunter Level 1",
-      "icon": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
-      "description": "Bug Hunter Level 1"
-    },
-    {
       "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
       "tooltip": "Early Verified Bot Developer",
       "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
@@ -39339,48 +39327,6 @@
       "tooltip": "Orbs — Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
       "description": "Orbs — Apprentice"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
-      "tooltip": "Last Meadow Online",
-      "icon": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
-      "description": "Last Meadow Online"
-    },
-    {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_patron.png",
-      "tooltip": "Gifting — Patron",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_patron.png",
-      "description": "Gifting — Patron"
-    },
-    {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_champion.png",
-      "tooltip": "Gifting — Champion",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_champion.png",
-      "description": "Gifting — Champion"
-    },
-    {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
-      "tooltip": "Gifting — Luminary",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_luminary.png",
-      "description": "Gifting — Luminary"
-    },
-    {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
-      "tooltip": "Gifting — Icon",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
-      "description": "Gifting — Icon"
-    },
-    {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
-      "tooltip": "Gifting — Hero",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
-      "description": "Gifting — Hero"
-    },
-    {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "tooltip": "Gifting — Legendary",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
-      "description": "Gifting — Legendary"
     }
   ]
 }
