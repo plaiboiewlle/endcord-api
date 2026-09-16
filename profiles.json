@@ -43738,19 +43738,5 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
       "description": "Gifting — Hero"
     }
-  ],
-  "1002232062608158840": [
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
-      "tooltip": "Opal (72 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
-      "description": "Opal (72 months)"
-    },
-    {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
-      "tooltip": "Gifting — Icon",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_icon.png",
-      "description": "Gifting — Icon"
-    }
   ]
 }
