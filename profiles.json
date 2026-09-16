@@ -45804,5 +45804,19 @@
       "icon": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
       "description": "Active Developer"
     }
+  ],
+  "1533262752490066060": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "tooltip": "Platinum (6 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "description": "Platinum (6 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/cb3ae83c15e970e8f3d410bc62cb8b99.png",
+      "tooltip": "Server Boost - 15 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/cb3ae83c15e970e8f3d410bc62cb8b99.png",
+      "description": "Server Boost - 15 Months"
+    }
   ]
 }
