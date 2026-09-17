@@ -46863,6 +46863,24 @@
       "description": "Diamond (12 months)"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "tooltip": "Early Verified Bot Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "description": "Early Verified Bot Developer"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/72bed924410c304dbe3d00a6e593ff59.png",
+      "tooltip": "Server Boost - 3 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/72bed924410c304dbe3d00a6e593ff59.png",
+      "description": "Server Boost - 3 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
+      "tooltip": "HypeSquad Bravery",
+      "icon": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
+      "description": "HypeSquad Bravery"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
       "tooltip": "Completed a quest",
       "icon": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
