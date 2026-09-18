@@ -20087,6 +20087,18 @@
       "tooltip": "Active Developer",
       "icon": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
       "description": "Active Developer"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "tooltip": "Old username: !w",
+      "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "description": "Old username: !w"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
+      "tooltip": "Last Meadow Online",
+      "icon": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
+      "description": "Last Meadow Online"
     }
   ],
   "1153982009807482930": [
