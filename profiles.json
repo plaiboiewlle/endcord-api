@@ -57057,10 +57057,22 @@
   ],
   "1550587441432236153": [
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
-      "tooltip": "Platinum (6 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
-      "description": "Platinum (6 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "tooltip": "Ruby (36 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "description": "Ruby (36 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "tooltip": "Early Verified Bot Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "description": "Early Verified Bot Developer"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "tooltip": "Moderator Programs Alumni",
+      "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "description": "Moderator Programs Alumni"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png",
@@ -57073,6 +57085,12 @@
       "tooltip": "Active Developer",
       "icon": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
       "description": "Active Developer"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
+      "tooltip": "HypeSquad Brilliance",
+      "icon": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
+      "description": "HypeSquad Brilliance"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
