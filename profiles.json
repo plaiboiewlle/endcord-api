@@ -45883,16 +45883,10 @@
       "description": "Ruby (36 months)"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
-      "tooltip": "HypeSquad Events",
-      "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
-      "description": "HypeSquad Events"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
-      "tooltip": "Moderator Programs Alumni",
-      "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
-      "description": "Moderator Programs Alumni"
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_champion.png",
+      "tooltip": "Gifting — Champion",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_champion.png",
+      "description": "Gifting — Champion"
     }
   ],
   "631700978026020875": [
