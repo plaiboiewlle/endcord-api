@@ -59719,12 +59719,6 @@
       "description": "Bug Hunter Level 2"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
-      "tooltip": "Bug Hunter Level 1",
-      "icon": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
-      "description": "Bug Hunter Level 1"
-    },
-    {
       "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
       "tooltip": "Early Verified Bot Developer",
       "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
@@ -59743,10 +59737,10 @@
       "description": "Early Supporter"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
-      "tooltip": "Server Boost - 24 Months",
-      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
-      "description": "Server Boost - 24 Months"
+      "badge": "https://cdn.discordapp.com/badge-icons/cb3ae83c15e970e8f3d410bc62cb8b99.png",
+      "tooltip": "Server Boost - 15 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/cb3ae83c15e970e8f3d410bc62cb8b99.png",
+      "description": "Server Boost - 15 Months"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
@@ -59761,22 +59755,10 @@
       "description": "HypeSquad Bravery"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
-      "tooltip": "HypeSquad Brilliance",
-      "icon": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
-      "description": "HypeSquad Brilliance"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
-      "tooltip": "HypeSquad Balance",
-      "icon": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
-      "description": "HypeSquad Balance"
-    },
-    {
       "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
-      "tooltip": "Old username",
+      "tooltip": "Old username: Kaiito#0000",
       "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
-      "description": "Old username"
+      "description": "Old username: Kaiito#0000"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png",
