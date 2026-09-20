@@ -61019,10 +61019,10 @@
   ],
   "1390929960298086430": [
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
-      "tooltip": "Diamond (12 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
-      "description": "Diamond (12 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "tooltip": "Ruby (36 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png",
+      "description": "Ruby (36 months)"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
@@ -61031,16 +61031,22 @@
       "description": "Bug Hunter Level 2"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "tooltip": "Moderator Programs Alumni",
+      "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "description": "Moderator Programs Alumni"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
       "tooltip": "Early Supporter",
       "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
       "description": "Early Supporter"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
-      "tooltip": "Server Boost - 24 Months",
-      "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
-      "description": "Server Boost - 24 Months"
+      "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
+      "tooltip": "Last Meadow Online",
+      "icon": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
+      "description": "Last Meadow Online"
     }
   ],
   "1527702481453449277": [
