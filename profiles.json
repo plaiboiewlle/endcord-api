@@ -61386,5 +61386,37 @@
       "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
       "description": "HypeSquad Events"
     }
+  ],
+  "1453953641680605276": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
+      "tooltip": "Diamond (12 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
+      "description": "Diamond (12 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "tooltip": "Early Supporter",
+      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "description": "Early Supporter"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png",
+      "tooltip": "Server Boost - 12 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png",
+      "description": "Server Boost - 12 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
+      "tooltip": "HypeSquad Bravery",
+      "icon": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
+      "description": "HypeSquad Bravery"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "tooltip": "Old username: trauma#0003",
+      "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "description": "Old username: trauma#0003"
+    }
   ]
 }
