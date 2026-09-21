@@ -17639,16 +17639,28 @@
   ],
   "1535420300068651008": [
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
-      "tooltip": "Diamond (12 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png",
-      "description": "Diamond (12 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "tooltip": "Partnered Server Owner",
+      "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "description": "Partnered Server Owner"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/996b3e870e8a22ce519b3a50e6bdd52f.png",
-      "tooltip": "Server Boost - 9 Months",
-      "icon": "https://cdn.discordapp.com/badge-icons/996b3e870e8a22ce519b3a50e6bdd52f.png",
-      "description": "Server Boost - 9 Months"
+      "badge": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "tooltip": "Emerald (24 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "description": "Emerald (24 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/51040c70d4f20a921ad6674ff86fc95c.png",
+      "tooltip": "Server Boost - 1 Month",
+      "icon": "https://cdn.discordapp.com/badge-icons/51040c70d4f20a921ad6674ff86fc95c.png",
+      "description": "Server Boost - 1 Month"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
+      "tooltip": "Active Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
+      "description": "Active Developer"
     }
   ],
   "1395084911337017467": [
