@@ -86863,12 +86863,6 @@
       "description": "Opal (72 months)"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
-      "tooltip": "HypeSquad Events",
-      "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
-      "description": "HypeSquad Events"
-    },
-    {
       "badge": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
       "tooltip": "Bug Hunter Level 2",
       "icon": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
@@ -86897,18 +86891,6 @@
       "tooltip": "HypeSquad Bravery",
       "icon": "https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png",
       "description": "HypeSquad Bravery"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
-      "tooltip": "HypeSquad Brilliance",
-      "icon": "https://cdn.discordapp.com/badge-icons/011940fd013da3f7fb926e4a1cd2e618.png",
-      "description": "HypeSquad Brilliance"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
-      "tooltip": "HypeSquad Balance",
-      "icon": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
-      "description": "HypeSquad Balance"
     },
     {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
