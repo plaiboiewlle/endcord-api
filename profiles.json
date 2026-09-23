@@ -91275,6 +91275,12 @@
       "description": "Completed a quest"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
+      "tooltip": "Orbs — Apprentice",
+      "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
+      "description": "Orbs — Apprentice"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
       "tooltip": "Last Meadow Online",
       "icon": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
@@ -91309,6 +91315,12 @@
       "tooltip": "Gifting — Hero",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
       "description": "Gifting — Hero"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "description": "Gifting — Legendary"
     }
   ],
   "1441900435542638706": [
