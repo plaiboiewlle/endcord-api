@@ -101730,5 +101730,13 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
       "description": "Gifting — Legendary"
     }
+  ],
+  "1139630408728846356": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png",
+      "tooltip": "Server Boost - 12 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png",
+      "description": "Server Boost - 12 Months"
+    }
   ]
 }
