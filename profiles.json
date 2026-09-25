@@ -110791,6 +110791,18 @@
       "description": "HypeSquad Events"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
+      "tooltip": "Bug Hunter Level 2",
+      "icon": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
+      "description": "Bug Hunter Level 2"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
+      "tooltip": "Bug Hunter Level 1",
+      "icon": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png",
+      "description": "Bug Hunter Level 1"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
       "tooltip": "Early Verified Bot Developer",
       "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
