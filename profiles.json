@@ -119466,5 +119466,19 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
       "description": "Gifting — Hero"
     }
+  ],
+  "1539369835811704972": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/4f33c4a9c64ce221936bd256c356f91f.png",
+      "tooltip": "Bronze (1 month)",
+      "icon": "https://cdn.discordapp.com/badge-icons/4f33c4a9c64ce221936bd256c356f91f.png",
+      "description": "Bronze (1 month)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
+      "tooltip": "Server Boost - 18 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/7142225d31238f6387d9f09efaa02759.png",
+      "description": "Server Boost - 18 Months"
+    }
   ]
 }
