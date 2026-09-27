@@ -122342,5 +122342,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
       "description": "Platinum (6 months)"
     }
+  ],
+  "804184934436044810": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "tooltip": "Emerald (24 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "description": "Emerald (24 months)"
+    }
   ]
 }
