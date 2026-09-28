@@ -122282,5 +122282,25 @@
       "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
       "description": "Platinum (6 months)"
     }
+  ],
+  "353716172392497154": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/4f33c4a9c64ce221936bd256c356f91f.png",
+      "tooltip": "Bronze (1 month)",
+      "icon": "https://cdn.discordapp.com/badge-icons/4f33c4a9c64ce221936bd256c356f91f.png",
+      "description": "Bronze (1 month)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
+      "tooltip": "HypeSquad Balance",
+      "icon": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
+      "description": "HypeSquad Balance"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_patron.png",
+      "tooltip": "Gifting — Patron",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_patron.png",
+      "description": "Gifting — Patron"
+    }
   ]
 }
