@@ -122460,5 +122460,13 @@
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_patron.png",
       "description": "Gifting — Patron"
     }
+  ],
+  "926005368092491787": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "tooltip": "Platinum (6 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "description": "Platinum (6 months)"
+    }
   ]
 }
