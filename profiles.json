@@ -39025,22 +39025,40 @@
   ],
   "1516563911355142346": [
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
-      "tooltip": "Gold (3 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
-      "description": "Gold (3 months)"
+      "badge": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "tooltip": "Partnered Server Owner",
+      "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "description": "Partnered Server Owner"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
-      "tooltip": "HypeSquad Events",
-      "icon": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
-      "description": "HypeSquad Events"
+      "badge": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "tooltip": "Platinum (6 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png",
+      "description": "Platinum (6 months)"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
-      "tooltip": "Bug Hunter Level 2",
-      "icon": "https://cdn.discordapp.com/badge-icons/848f79194d4be5ff5f81505cbd0ce1e6.png",
-      "description": "Bug Hunter Level 2"
+      "badge": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "tooltip": "Early Verified Bot Developer",
+      "icon": "https://cdn.discordapp.com/badge-icons/6df5892e0f35b051f8b61eace34f4967.png",
+      "description": "Early Verified Bot Developer"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "tooltip": "Early Supporter",
+      "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
+      "description": "Early Supporter"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/df199d2050d3ed4ebf84d64ae83989f8.png",
+      "tooltip": "Server Boost - 6 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/df199d2050d3ed4ebf84d64ae83989f8.png",
+      "description": "Server Boost - 6 Months"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_patron.png",
+      "tooltip": "Gifting — Patron",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_patron.png",
+      "description": "Gifting — Patron"
     }
   ],
   "564937033630613505": [
