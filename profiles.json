@@ -101509,6 +101509,12 @@
   ],
   "1548387472445018156": [
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "tooltip": "Partnered Server Owner",
+      "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
+      "description": "Partnered Server Owner"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
       "tooltip": "Opal (72 months)",
       "icon": "https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png",
@@ -101522,9 +101528,9 @@
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
-      "tooltip": "Old username",
+      "tooltip": "Old username: 乂乂",
       "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
-      "description": "Old username"
+      "description": "Old username: 乂乂"
     }
   ],
   "548805022012669955": [
