@@ -43081,12 +43081,6 @@
       "description": "Active Developer"
     },
     {
-      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
-      "tooltip": "Gifting — Hero",
-      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_hero.png",
-      "description": "Gifting — Hero"
-    },
-    {
       "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
       "tooltip": "Gifting — Legendary",
       "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
