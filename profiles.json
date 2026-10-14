@@ -122668,19 +122668,5 @@
       "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
       "description": "Early Supporter"
     }
-  ],
-  "670252552549302276": [
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
-      "tooltip": "Partnered Server Owner",
-      "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png",
-      "description": "Partnered Server Owner"
-    },
-    {
-      "badge": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
-      "tooltip": "Silver (2 months)",
-      "icon": "https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png",
-      "description": "Silver (2 months)"
-    }
   ]
 }
