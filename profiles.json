@@ -122570,5 +122570,19 @@
       "icon": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
       "description": "Gold (3 months)"
     }
+  ],
+  "1556876212767297629": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "tooltip": "Emerald (24 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png",
+      "description": "Emerald (24 months)"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png",
+      "tooltip": "Server Boost - 12 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/991c9f39ee33d7537d9f408c3e53141e.png",
+      "description": "Server Boost - 12 Months"
+    }
   ]
 }
