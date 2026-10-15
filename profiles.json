@@ -122084,5 +122084,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png",
       "description": "Server Boost - 24 Months"
     }
+  ],
+  "1510771104870830171": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
+      "tooltip": "Nitro (0 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png",
+      "description": "Nitro (0 months)"
+    }
   ]
 }
