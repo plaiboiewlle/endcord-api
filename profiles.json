@@ -87915,10 +87915,16 @@
       "description": "Ruby (36 months)"
     },
     {
-      "badge": "https://cdn.discordapp.com/badge-icons/df199d2050d3ed4ebf84d64ae83989f8.png",
-      "tooltip": "Server Boost - 6 Months",
-      "icon": "https://cdn.discordapp.com/badge-icons/df199d2050d3ed4ebf84d64ae83989f8.png",
-      "description": "Server Boost - 6 Months"
+      "badge": "https://cdn.discordapp.com/badge-icons/cb3ae83c15e970e8f3d410bc62cb8b99.png",
+      "tooltip": "Server Boost - 15 Months",
+      "icon": "https://cdn.discordapp.com/badge-icons/cb3ae83c15e970e8f3d410bc62cb8b99.png",
+      "description": "Server Boost - 15 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
+      "tooltip": "HypeSquad Balance",
+      "icon": "https://cdn.discordapp.com/badge-icons/3aa41de486fa12454c3761e8e223442e.png",
+      "description": "HypeSquad Balance"
     },
     {
       "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
