@@ -7635,6 +7635,12 @@
       "description": "Early Verified Bot Developer"
     },
     {
+      "badge": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "tooltip": "Moderator Programs Alumni",
+      "icon": "https://cdn.discordapp.com/badge-icons/fee1624003e2fee35cb398e125dc479b.png",
+      "description": "Moderator Programs Alumni"
+    },
+    {
       "badge": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
       "tooltip": "Early Supporter",
       "icon": "https://cdn.discordapp.com/badge-icons/7060786766c9c840eb3019e725d2b358.png",
@@ -7675,6 +7681,18 @@
       "tooltip": "Orbs — Apprentice",
       "icon": "https://cdn.discordapp.com/badge-icons/83d8a1eb09a8d64e59233eec5d4d5c2d.png",
       "description": "Orbs — Apprentice"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
+      "tooltip": "Last Meadow Online",
+      "icon": "https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png",
+      "description": "Last Meadow Online"
+    },
+    {
+      "badge": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "tooltip": "Gifting — Legendary",
+      "icon": "https://raw.githubusercontent.com/plaiboiewlle/endcord-api/main/assets/gift_legendary.png",
+      "description": "Gifting — Legendary"
     }
   ],
   "1363867587712258160": [
