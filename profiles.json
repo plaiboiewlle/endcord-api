@@ -121947,6 +121947,12 @@
       "tooltip": "Server Boost - 2 Months",
       "icon": "https://cdn.discordapp.com/badge-icons/0e4080d1d333bc7ad29ef6528b6f2fb7.png",
       "description": "Server Boost - 2 Months"
+    },
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "tooltip": "Old username: bitcoin#923",
+      "icon": "https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png",
+      "description": "Old username: bitcoin#923"
     }
   ]
 }
