@@ -122456,5 +122456,13 @@
       "icon": "https://cdn.discordapp.com/badge-icons/4f33c4a9c64ce221936bd256c356f91f.png",
       "description": "Bronze (1 month)"
     }
+  ],
+  "1551259141367144598": [
+    {
+      "badge": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
+      "tooltip": "Gold (3 months)",
+      "icon": "https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png",
+      "description": "Gold (3 months)"
+    }
   ]
 }
